@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5h0dJEoFi7E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\achaubey\\OneDrive - Capgemini\\Desktop\\Projects\\EShoppingZone\\services\\ProfileService\\ProfileService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\achaubey\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\achaubey\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
