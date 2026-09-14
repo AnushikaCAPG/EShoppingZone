@@ -151,6 +151,7 @@ C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\C
 C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\CartService\obj\Debug\net10.0\CartService.csproj.CoreCompileInputs.cache
 C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\CartService\obj\Debug\net10.0\CartService.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\CartService\obj\Debug\net10.0\CartService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\CartService\obj\Debug\net10.0\CartService.sourcelink.json
 C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\CartService\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\CartService\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\CartService\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json

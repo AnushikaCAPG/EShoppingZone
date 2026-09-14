@@ -21,13 +21,9 @@ public class ExceptionMiddleware
         {
             context.Response.StatusCode = 500;
 
-            context.Response.ContentType =
-                "application/json";
-
             await context.Response.WriteAsJsonAsync(
                 new
                 {
-                    StatusCode = 500,
                     Message = "An unexpected error occurred.",
                     Error = ex.Message
                 });

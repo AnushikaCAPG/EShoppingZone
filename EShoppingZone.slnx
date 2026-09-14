@@ -7,4 +7,5 @@
     <Project Path="services/ProfileService/ProfileService.csproj" />
     <Project Path="services/WalletService/WalletService.csproj" />
   </Folder>
+  <Project Path="AuthService.Tests/AuthService.Tests.csproj" />
 </Solution>

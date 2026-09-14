@@ -45,6 +45,10 @@ builder.Services.AddScoped<
     IAuthService,
     AuthService.Services.AuthService>();
 
+builder.Services.AddScoped<
+    IEmailService,
+    AuthService.Services.EmailService>();
+
 builder.Services.AddEndpointsApiExplorer();
 
 builder.Services.AddSwaggerGen();

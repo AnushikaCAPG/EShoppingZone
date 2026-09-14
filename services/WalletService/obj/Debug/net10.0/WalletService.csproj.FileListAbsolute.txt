@@ -40,6 +40,9 @@ C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\W
 C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\WalletService\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
 C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\WalletService\bin\Debug\net10.0\Mono.TextTemplating.dll
 C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\WalletService\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\WalletService\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\WalletService\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\WalletService\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\WalletService\bin\Debug\net10.0\System.ClientModel.dll
 C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\WalletService\bin\Debug\net10.0\System.CodeDom.dll
 C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\WalletService\bin\Debug\net10.0\System.Composition.AttributedModel.dll
@@ -148,6 +151,7 @@ C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\W
 C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\WalletService\obj\Debug\net10.0\WalletService.csproj.CoreCompileInputs.cache
 C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\WalletService\obj\Debug\net10.0\WalletService.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\WalletService\obj\Debug\net10.0\WalletService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\WalletService\obj\Debug\net10.0\WalletService.sourcelink.json
 C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\WalletService\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\WalletService\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\WalletService\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
@@ -163,6 +167,3 @@ C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\W
 C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\WalletService\obj\Debug\net10.0\WalletService.pdb
 C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\WalletService\obj\Debug\net10.0\WalletService.genruntimeconfig.cache
 C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\WalletService\obj\Debug\net10.0\ref\WalletService.dll
-C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\WalletService\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\WalletService\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\achaubey\OneDrive - Capgemini\Desktop\Projects\EShoppingZone\services\WalletService\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll

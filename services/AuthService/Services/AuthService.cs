@@ -14,13 +14,16 @@ public class AuthService : IAuthService
 {
     private readonly ApplicationDbContext _context;
     private readonly IConfiguration _configuration;
+    private readonly IEmailService _emailService;
 
     public AuthService(
         ApplicationDbContext context,
-        IConfiguration configuration)
+        IConfiguration configuration,
+        IEmailService emailService)
     {
         _context = context;
         _configuration = configuration;
+        _emailService = emailService;
     }
 
     public async Task<LoginResponseDto?> LoginAsync(
@@ -113,6 +116,16 @@ public class AuthService : IAuthService
         var rowsAffected =
             await _context.SaveChangesAsync();
 
-        return rowsAffected > 0;
+        if (rowsAffected > 0)
+        {
+            await _emailService.SendEmailAsync(
+                customer.Email,
+                "Welcome to EShoppingZone",
+                $"Hello {customer.FirstName}, your registration was successful.");
+
+            return true;
+        }
+
+        return false;
     }
 }
